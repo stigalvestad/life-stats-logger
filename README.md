@@ -65,3 +65,10 @@ GET /event/{metric} get events for that specific metric within start and stop,
 
 
 Simple web page which lets user add events. 
+
+# Dev log
+Created vue project using
+
+    vue create life-stats-client
+ 
+sadsf
